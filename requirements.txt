@@ -1,0 +1,4 @@
+filelock
+numpy
+opencv-python
+pyserial
